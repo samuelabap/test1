@@ -8,3 +8,7 @@ REPORT zsamhelloworld_3.
 
 
 write :/ 'hello world sam'.
+
+
+
+write :/ 'hello world from GIT'.
